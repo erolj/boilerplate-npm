@@ -2,9 +2,11 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Erol Joudy",
 	"description": "A project that does something awesome",
-	"keywords": ["freecodecamp"],
+	"keywords": [
+		"freecodecamp"
+	],
 	"license": "MIT",
-	"version": "0.0.1",
+	"version": "2.10.2",
 	"dependencies": {
 		"moment": "2.14.0",
 		"express": "^4.14.0"
